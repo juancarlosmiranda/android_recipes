@@ -1,0 +1,22 @@
+<resources>
+    <string name="app_name">parameters_activities_01</string>
+    <string name="action_settings">Settings</string>
+    <!-- Strings used for fragments for navigation -->
+    <string name="frag_01_label">Emisor</string>
+    <string name="frag_02_label">Receptor</string>
+    <string name="frag_01_lbl_title">Sending Data</string>
+    <string name="frag_02_lbl_title">Receiving Data</string>
+
+    <string name="send_text">Send</string>
+    <string name="return_text">Return</string>
+
+
+    <string name="lorem_ipsum">
+        Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nam in scelerisque sem. Mauris
+        volutpat, dolor id interdum ullamcorper, risus dolor egestas lectus, sit amet mattis purus
+        dui nec risus. Maecenas non sodales nisi, vel dictum dolor. Class aptent taciti sociosqu ad
+        litora torquent per conubia nostra, per inceptos himenaeos. Suspendisse blandit eleifend
+        diam, vel rutrum tellus vulputate quis. Aliquam eget libero aliquet, imperdiet nisl a,
+        ornare ex. Sed rhoncus est ut libero porta lobortis. Fusce in dictum tellus.\n\n
+    </string>
+</resources>

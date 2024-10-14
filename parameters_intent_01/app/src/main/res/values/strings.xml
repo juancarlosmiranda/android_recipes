@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">parameters_intent_01</string>
+    <string name="title_activity_emisor">Emisor Activity</string>
+    <string name="title_activity_receptor">Receptor Activity</string>
+    <string name="action_settings">Settings</string>
+
+    <string name="btn_send">Send Parameters</string>
+
+</resources>

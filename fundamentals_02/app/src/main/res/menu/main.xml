@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+
+    <item
+        android:id="@+id/action_settings"
+        android:icon="@drawable/baseline_settings_24"
+        android:title="@string/action_settings"
+        app:showAsAction="always" />
+
+    <item
+        android:id="@+id/action_about"
+        android:icon="@drawable/baseline_info_24"
+        android:title="@string/action_about"
+        app:showAsAction="always" />
+
+    <item
+        android:id="@+id/action_menu_01"
+        android:icon="@drawable/baseline_camera_24"
+        android:title="@string/action_menu_01"
+        app:showAsAction="never" />
+    <item
+        android:id="@+id/action_menu_02"
+        android:icon="@drawable/baseline_build_24"
+        android:title="@string/action_menu_02"
+        app:showAsAction="never" />
+
+</menu>

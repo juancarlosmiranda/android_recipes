@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">widegets_01</string>
+    <string name="text_view_str">Testing Widges</string>
+    <string name="check_box_str">My CheckBox Message</string>
+    <string name="radio_button_str_01">Radio 01</string>
+    <string name="radio_button_str_02">Radio 02</string>
+    <string name="radio_button_str_03">Radio 03</string>
+    <string name="submit_button_str">Submit</string>
+</resources>

@@ -27,11 +27,6 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="9067d038-25fd-45d2-ba9a-5fabdf0f0f14" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/../basic_views_02/.idea/vcs.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../README.md" beforeDir="false" afterPath="$PROJECT_DIR$/../README.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../RecyclerView01/.idea/gradle.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../RecyclerView01/.idea/gradle.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../RecyclerView01/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../RecyclerView01/.idea/misc.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../RecyclerView01/app/src/main/java/com/example/recyclerview01/MainActivity.java" beforeDir="false" afterPath="$PROJECT_DIR$/../RecyclerView01/app/src/main/java/com/example/recyclerview01/MainActivity.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../activty_01/.gitignore" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/../activty_01/.idea/.gitignore" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/../activty_01/.idea/compiler.xml" beforeDir="false" />
@@ -94,17 +89,6 @@
       <change beforePath="$PROJECT_DIR$/../activty_01/gradlew" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/../activty_01/gradlew.bat" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/../activty_01/settings.gradle" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../basic_views_01/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../basic_views_01/.idea/misc.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../basic_views_03/app/src/main/java/com/example/basic_views_03/FirstFragment.java" beforeDir="false" afterPath="$PROJECT_DIR$/../basic_views_03/app/src/main/java/com/example/basic_views_03/FirstFragment.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../basic_views_03/app/src/main/java/com/example/basic_views_03/MainActivity.java" beforeDir="false" afterPath="$PROJECT_DIR$/../basic_views_03/app/src/main/java/com/example/basic_views_03/MainActivity.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../basic_views_03/app/src/main/res/layout/fragment_second.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../basic_views_03/app/src/main/res/layout/fragment_second.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/src/main/java/com/example/parameters_intent_01/Activity02.java" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/java/com/example/parameters_intent_01/Activity02.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/src/main/java/com/example/parameters_intent_01/MainActivity.java" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/java/com/example/parameters_intent_01/MainActivity.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/src/main/res/layout/activity_02.xml" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/res/layout/activity_02.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/src/main/res/layout/activity_main.xml" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/res/layout/activity_main.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/src/main/res/values/strings.xml" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/res/values/strings.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../parameters_intent_02/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../parameters_intent_02/.idea/misc.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../parameters_intent_02/app/src/main/java/com/example/parameters_intent_02/MainActivity.java" beforeDir="false" afterPath="$PROJECT_DIR$/../parameters_intent_02/app/src/main/java/com/example/parameters_intent_02/MainActivity.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -181,7 +165,7 @@
     "cf.first.check.clang-format": "false",
     "cidr.known.project.marker": "true",
     "kotlin-language-version-configured": "true",
-    "last_opened_file_path": "/home/usuario/development/android_recipes/parameters_intent_03",
+    "last_opened_file_path": "/home/usuario/development/android_recipes/parameters_intent_01",
     "project.structure.last.edited": "Suggestions",
     "project.structure.proportion": "0.17",
     "project.structure.side.proportion": "0.2",

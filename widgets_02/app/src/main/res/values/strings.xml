@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">widgets_02</string>
+    <string name="text_view_str">Testing Widges 02</string>
+    <string-array name="items_array">
+        <item>Option 1</item>
+        <item>Option 2</item>
+        <item>Option 3</item>
+        <item>Option 4</item>
+        <item>Option 5</item>
+        <item>Option 6</item>
+    </string-array>
+    <string name="spinner_str">Enable Option</string>
+    <string name="text_view_02_str">Selected:</string>
+    <string name="submit_button_str">Submit</string>
+</resources>

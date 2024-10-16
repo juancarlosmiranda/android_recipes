@@ -58,8 +58,6 @@ public class MainActivity extends AppCompatActivity {
                 } else {
                     Toast.makeText(MainActivity.this, "You should select an option!", Toast.LENGTH_SHORT).show();
                 }
-
-
             }
         });
         // ------------------------------------

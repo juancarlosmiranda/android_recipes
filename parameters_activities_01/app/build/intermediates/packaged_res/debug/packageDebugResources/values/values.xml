@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+    <dimen name="fab_margin">16dp</dimen>
+    <string name="action_settings">Settings</string>
+    <string name="app_name">parameters_activities_01</string>
+    <string name="frag_01_label">Emisor</string>
+    <string name="frag_01_lbl_title">Sending Data</string>
+    <string name="frag_02_label">Receptor</string>
+    <string name="frag_02_lbl_title">Receiving Data</string>
+    <string name="lorem_ipsum">
+        Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nam in scelerisque sem. Mauris
+        volutpat, dolor id interdum ullamcorper, risus dolor egestas lectus, sit amet mattis purus
+        dui nec risus. Maecenas non sodales nisi, vel dictum dolor. Class aptent taciti sociosqu ad
+        litora torquent per conubia nostra, per inceptos himenaeos. Suspendisse blandit eleifend
+        diam, vel rutrum tellus vulputate quis. Aliquam eget libero aliquet, imperdiet nisl a,
+        ornare ex. Sed rhoncus est ut libero porta lobortis. Fusce in dictum tellus.\n\n
+    </string>
+    <string name="return_text">Return</string>
+    <string name="send_text">Send</string>
+    <style name="Base.Theme.parameters_activities_01" parent="Theme.Material3.DayNight.NoActionBar">
+        
+        
+    </style>
+    <style name="Theme.parameters_activities_01" parent="Base.Theme.parameters_activities_01"/>
+</resources>

@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">activity_01</string>
+    <string name="message_text">Activity lifecycle and state</string>
+</resources>

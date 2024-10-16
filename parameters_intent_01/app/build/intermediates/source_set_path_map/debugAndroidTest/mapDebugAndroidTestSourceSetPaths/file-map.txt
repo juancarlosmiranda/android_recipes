@@ -1,0 +1,5 @@
+com.example.parameters_intent_01.test.app-core-1.6.1-0 /home/usuario/.gradle/caches/transforms-4/716a20b02f5383d477666df1423e99fe/transformed/core-1.6.1/res
+com.example.parameters_intent_01.test.app-androidTest-1 /home/usuario/development/android_recipes/parameters_intent_01/app/build/generated/res/resValues/androidTest/debug
+com.example.parameters_intent_01.test.app-mergeDebugAndroidTestResources-2 /home/usuario/development/android_recipes/parameters_intent_01/app/build/intermediates/incremental/debugAndroidTest/mergeDebugAndroidTestResources/merged.dir
+com.example.parameters_intent_01.test.app-mergeDebugAndroidTestResources-3 /home/usuario/development/android_recipes/parameters_intent_01/app/build/intermediates/incremental/debugAndroidTest/mergeDebugAndroidTestResources/stripped.dir
+com.example.parameters_intent_01.test.app-debugAndroidTest-4 /home/usuario/development/android_recipes/parameters_intent_01/app/build/intermediates/merged_res/debugAndroidTest/mergeDebugAndroidTestResources

@@ -1,0 +1,18 @@
+[
+    {
+        "merged": "com.example.fundamentals_01.app-mergeDebugResources-43:/layout/fragment_home.xml",
+        "source": "com.example.fundamentals_01.app-main-46:/layout/fragment_home.xml"
+    },
+    {
+        "merged": "com.example.fundamentals_01.app-mergeDebugResources-43:/layout/activity_main.xml",
+        "source": "com.example.fundamentals_01.app-main-46:/layout/activity_main.xml"
+    },
+    {
+        "merged": "com.example.fundamentals_01.app-mergeDebugResources-43:/layout/fragment_dashboard.xml",
+        "source": "com.example.fundamentals_01.app-main-46:/layout/fragment_dashboard.xml"
+    },
+    {
+        "merged": "com.example.fundamentals_01.app-mergeDebugResources-43:/layout/fragment_notifications.xml",
+        "source": "com.example.fundamentals_01.app-main-46:/layout/fragment_notifications.xml"
+    }
+]

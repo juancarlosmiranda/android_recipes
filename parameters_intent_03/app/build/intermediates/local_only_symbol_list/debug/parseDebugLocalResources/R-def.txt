@@ -1,0 +1,35 @@
+R_DEF: Internal format may change without notice
+local
+color black
+color white
+dimen app_bar_height
+dimen fab_margin
+dimen text_margin
+drawable ic_launcher_background
+drawable ic_launcher_foreground
+id action_settings
+id buttonReturn
+id buttonSend
+id emisorTextView
+id main
+id resultsTextView
+layout activity_02
+layout activity_main
+menu menu_receptor
+mipmap ic_launcher
+mipmap ic_launcher_round
+string action_settings
+string app_name
+string btn_return
+string btn_send
+string text_emisor
+string text_receptor
+string title_activity_emisor
+string title_activity_receptor
+style Base.Theme.Parameters_intent_03
+style Theme.Parameters_intent_03
+style Theme.Parameters_intent_03.AppBarOverlay
+style Theme.Parameters_intent_03.NoActionBar
+style Theme.Parameters_intent_03.PopupOverlay
+xml backup_rules
+xml data_extraction_rules

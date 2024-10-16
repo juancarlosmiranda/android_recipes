@@ -13,9 +13,9 @@ import com.example.parameters_intent_01.databinding.ActivityMainBinding;
 
 
 public class MainActivity extends AppCompatActivity {
-
+    public static final String LOG_TAG = "MAIN_ACTIVITY";
     private ActivityMainBinding binding;
-    public static final int TEXT_REQUEST = 3;
+    public static final int REQUEST_CODE = 1234;
 
     @Override
     protected void onCreate(Bundle savedInstanceState) {
@@ -23,11 +23,12 @@ public class MainActivity extends AppCompatActivity {
         // EdgeToEdge.enable(this);
         binding = ActivityMainBinding.inflate(getLayoutInflater());
         setContentView(R.layout.activity_main);
-        Button button = findViewById(R.id.button);
-        button.setOnClickListener(new View.OnClickListener() {
+        Button buttonSend = findViewById(R.id.buttonSend);
+        buttonSend.setOnClickListener(new View.OnClickListener() {
             @Override
             public void onClick(View view){
-                Log.d("BTN_CLICK", "Updating values");
+                Log.i(LOG_TAG, LOG_TAG+"->"+"onClick(View view)");
+                Log.i(LOG_TAG, LOG_TAG+"->"+"Updating values");
                 Intent intent = new Intent(view.getContext(), Activity02.class);
                 // -----------------------
                 TextView emisorTextView1 = findViewById(R.id.emisorTextView);
@@ -39,22 +40,33 @@ public class MainActivity extends AppCompatActivity {
                 // packing data into intent
                 intent.putExtra("myTextValue", myString);
                 intent.putExtra("myIntegerValue", myInteger);
+                intent.putExtra("myResultValue", "ALGO");
                 // -----------------------
                 // calling a new activity
-                //startActivity(intent);
-                startActivityForResult(intent, TEXT_REQUEST);
+                startActivity(intent);
                 // -----------------------
             }
         });
     }
-
+    // deprecated function
+    // New method is explained by Google. https://developer.android.com/training/basics/intents/result#java
     public void onActivityResult(int requestCode, int resultCode,  Intent data) {
         super.onActivityResult(requestCode, resultCode, data);
-        if (requestCode == TEXT_REQUEST) {
-            if (resultCode == RESULT_OK) {
-                String reply = data.getStringExtra(Activity02.EXTRA_RETURN_MESSAGE);
+        Log.i(LOG_TAG, LOG_TAG+"->"+"onActivityResult()");
+        Log.i(LOG_TAG, LOG_TAG+"->"+"requestCode="+requestCode);
+        Log.i(LOG_TAG, LOG_TAG+"->"+"resultCode="+resultCode);
+        Log.i(LOG_TAG, LOG_TAG+"->"+"data="+data);
+
+        if (requestCode == REQUEST_CODE) {
+            if (resultCode == AppCompatActivity.RESULT_OK) {
+                // get Intent for results
+                String reply = data.getStringExtra("MY_RESULT");
                 // process data
-                Log.i("MAIN_ACTIVITY", "Processing results ->");
+                Log.i(LOG_TAG, LOG_TAG+"->"+"onActivityResult() TEXT_REQUEST & RESULT_OK -> "+reply);
+            }
+
+            if (resultCode == AppCompatActivity.RESULT_CANCELED) {
+                Log.i(LOG_TAG, LOG_TAG+"->"+"onActivityResult() RESULT_CANCELED -> ");
             }
         }
     }

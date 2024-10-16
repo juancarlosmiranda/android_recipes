@@ -1,0 +1,19 @@
+<resources>
+    <string name="app_name">activty_01</string>
+    <string name="table_layout_4_open">string 01</string>
+    <string name="table_layout_4_open_shortcut">string 02</string>
+    <string name="table_layout_4_save">string 03</string>
+    <string name="table_layout_4_save_shortcut">string 04</string>
+    <string name="button_01">MY BUTTON</string>
+    <string name="title_activity_login">LoginActivity</string>
+    <string name="prompt_email">Email</string>
+    <string name="prompt_password">Password</string>
+    <string name="action_sign_in">Sign in or register</string>
+    <string name="action_sign_in_short">Sign in</string>
+    <string name="welcome">"Welcome !"</string>
+    <string name="invalid_username">Not a valid username</string>
+    <string name="invalid_password">Password must be >5 characters</string>
+    <string name="login_failed">"Login failed"</string>
+
+
+</resources>

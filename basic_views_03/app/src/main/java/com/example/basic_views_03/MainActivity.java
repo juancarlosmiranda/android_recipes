@@ -7,6 +7,7 @@ import android.content.DialogInterface;
 
 import androidx.appcompat.app.AppCompatActivity;
 
+import android.util.Log;
 import android.view.View;
 
 import androidx.navigation.NavController;
@@ -21,7 +22,7 @@ import android.view.MenuItem;
 import android.widget.Toast;
 
 public class MainActivity extends AppCompatActivity {
-
+    public static final String LOG_TAG = "ACTIVITY_01";
     private AppBarConfiguration appBarConfiguration;
     private ActivityMainBinding binding;
 
@@ -37,6 +38,7 @@ public class MainActivity extends AppCompatActivity {
         NavController navController = Navigation.findNavController(this, R.id.nav_host_fragment_content_main);
         appBarConfiguration = new AppBarConfiguration.Builder(navController.getGraph()).build();
         NavigationUI.setupActionBarWithNavController(this, navController, appBarConfiguration);
+
 
         binding.fab.setOnClickListener(new View.OnClickListener() {
             @Override
@@ -95,4 +97,18 @@ public class MainActivity extends AppCompatActivity {
         return NavigationUI.navigateUp(navController, appBarConfiguration)
                 || super.onSupportNavigateUp();
     }
+
+    @Override
+    protected void onResume() {
+        super.onResume();
+        Log.i(LOG_TAG,"onResume MainActivity -->>");
+    }
+
+    @Override
+    protected void onStop() {
+        super.onStop();
+        Log.i(LOG_TAG,"onStop MainActivity -->>");
+    }
+
+
 }

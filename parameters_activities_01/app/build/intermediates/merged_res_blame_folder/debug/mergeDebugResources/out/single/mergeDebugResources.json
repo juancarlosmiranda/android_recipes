@@ -1,0 +1,94 @@
+[
+    {
+        "merged": "/home/usuario/.gradle/daemon/8.7/com.example.parameters_activities_01.app-debug-43:/xml_data_extraction_rules.xml.flat",
+        "source": "/home/usuario/.gradle/daemon/8.7/com.example.parameters_activities_01.app-main-45:/xml/data_extraction_rules.xml"
+    },
+    {
+        "merged": "/home/usuario/.gradle/daemon/8.7/com.example.parameters_activities_01.app-debug-43:/layout_fragment_01.xml.flat",
+        "source": "/home/usuario/.gradle/daemon/8.7/com.example.parameters_activities_01.app-main-45:/layout/fragment_01.xml"
+    },
+    {
+        "merged": "/home/usuario/.gradle/daemon/8.7/com.example.parameters_activities_01.app-debug-43:/mipmap-xhdpi_ic_launcher.webp.flat",
+        "source": "/home/usuario/.gradle/daemon/8.7/com.example.parameters_activities_01.app-main-45:/mipmap-xhdpi/ic_launcher.webp"
+    },
+    {
+        "merged": "/home/usuario/.gradle/daemon/8.7/com.example.parameters_activities_01.app-debug-43:/layout_activity_main.xml.flat",
+        "source": "/home/usuario/.gradle/daemon/8.7/com.example.parameters_activities_01.app-main-45:/layout/activity_main.xml"
+    },
+    {
+        "merged": "/home/usuario/.gradle/daemon/8.7/com.example.parameters_activities_01.app-debug-43:/mipmap-xxhdpi_ic_launcher_round.webp.flat",
+        "source": "/home/usuario/.gradle/daemon/8.7/com.example.parameters_activities_01.app-main-45:/mipmap-xxhdpi/ic_launcher_round.webp"
+    },
+    {
+        "merged": "com.example.parameters_activities_01.app-debug-43:/layout_activity_main.xml.flat",
+        "source": "com.example.parameters_activities_01.app-main-45:/layout/activity_main.xml"
+    },
+    {
+        "merged": "/home/usuario/.gradle/daemon/8.7/com.example.parameters_activities_01.app-debug-43:/layout_fragment_02.xml.flat",
+        "source": "/home/usuario/.gradle/daemon/8.7/com.example.parameters_activities_01.app-main-45:/layout/fragment_02.xml"
+    },
+    {
+        "merged": "/home/usuario/.gradle/daemon/8.7/com.example.parameters_activities_01.app-debug-43:/mipmap-xhdpi_ic_launcher_round.webp.flat",
+        "source": "/home/usuario/.gradle/daemon/8.7/com.example.parameters_activities_01.app-main-45:/mipmap-xhdpi/ic_launcher_round.webp"
+    },
+    {
+        "merged": "/home/usuario/.gradle/daemon/8.7/com.example.parameters_activities_01.app-debug-43:/mipmap-mdpi_ic_launcher.webp.flat",
+        "source": "/home/usuario/.gradle/daemon/8.7/com.example.parameters_activities_01.app-main-45:/mipmap-mdpi/ic_launcher.webp"
+    },
+    {
+        "merged": "/home/usuario/.gradle/daemon/8.7/com.example.parameters_activities_01.app-debug-43:/mipmap-xxhdpi_ic_launcher.webp.flat",
+        "source": "/home/usuario/.gradle/daemon/8.7/com.example.parameters_activities_01.app-main-45:/mipmap-xxhdpi/ic_launcher.webp"
+    },
+    {
+        "merged": "/home/usuario/.gradle/daemon/8.7/com.example.parameters_activities_01.app-debug-43:/menu_menu_main.xml.flat",
+        "source": "/home/usuario/.gradle/daemon/8.7/com.example.parameters_activities_01.app-main-45:/menu/menu_main.xml"
+    },
+    {
+        "merged": "/home/usuario/.gradle/daemon/8.7/com.example.parameters_activities_01.app-debug-43:/xml_backup_rules.xml.flat",
+        "source": "/home/usuario/.gradle/daemon/8.7/com.example.parameters_activities_01.app-main-45:/xml/backup_rules.xml"
+    },
+    {
+        "merged": "/home/usuario/.gradle/daemon/8.7/com.example.parameters_activities_01.app-debug-43:/mipmap-xxxhdpi_ic_launcher.webp.flat",
+        "source": "/home/usuario/.gradle/daemon/8.7/com.example.parameters_activities_01.app-main-45:/mipmap-xxxhdpi/ic_launcher.webp"
+    },
+    {
+        "merged": "/home/usuario/.gradle/daemon/8.7/com.example.parameters_activities_01.app-debug-43:/mipmap-anydpi_ic_launcher.xml.flat",
+        "source": "/home/usuario/.gradle/daemon/8.7/com.example.parameters_activities_01.app-main-45:/mipmap-anydpi/ic_launcher.xml"
+    },
+    {
+        "merged": "/home/usuario/.gradle/daemon/8.7/com.example.parameters_activities_01.app-debug-43:/mipmap-hdpi_ic_launcher.webp.flat",
+        "source": "/home/usuario/.gradle/daemon/8.7/com.example.parameters_activities_01.app-main-45:/mipmap-hdpi/ic_launcher.webp"
+    },
+    {
+        "merged": "/home/usuario/.gradle/daemon/8.7/com.example.parameters_activities_01.app-debug-43:/mipmap-xxxhdpi_ic_launcher_round.webp.flat",
+        "source": "/home/usuario/.gradle/daemon/8.7/com.example.parameters_activities_01.app-main-45:/mipmap-xxxhdpi/ic_launcher_round.webp"
+    },
+    {
+        "merged": "/home/usuario/.gradle/daemon/8.7/com.example.parameters_activities_01.app-debug-43:/navigation_nav_graph.xml.flat",
+        "source": "/home/usuario/.gradle/daemon/8.7/com.example.parameters_activities_01.app-main-45:/navigation/nav_graph.xml"
+    },
+    {
+        "merged": "/home/usuario/.gradle/daemon/8.7/com.example.parameters_activities_01.app-debug-43:/layout_content_main.xml.flat",
+        "source": "/home/usuario/.gradle/daemon/8.7/com.example.parameters_activities_01.app-main-45:/layout/content_main.xml"
+    },
+    {
+        "merged": "/home/usuario/.gradle/daemon/8.7/com.example.parameters_activities_01.app-debug-43:/drawable_ic_launcher_foreground.xml.flat",
+        "source": "/home/usuario/.gradle/daemon/8.7/com.example.parameters_activities_01.app-main-45:/drawable/ic_launcher_foreground.xml"
+    },
+    {
+        "merged": "/home/usuario/.gradle/daemon/8.7/com.example.parameters_activities_01.app-debug-43:/mipmap-mdpi_ic_launcher_round.webp.flat",
+        "source": "/home/usuario/.gradle/daemon/8.7/com.example.parameters_activities_01.app-main-45:/mipmap-mdpi/ic_launcher_round.webp"
+    },
+    {
+        "merged": "/home/usuario/.gradle/daemon/8.7/com.example.parameters_activities_01.app-debug-43:/drawable_ic_launcher_background.xml.flat",
+        "source": "/home/usuario/.gradle/daemon/8.7/com.example.parameters_activities_01.app-main-45:/drawable/ic_launcher_background.xml"
+    },
+    {
+        "merged": "/home/usuario/.gradle/daemon/8.7/com.example.parameters_activities_01.app-debug-43:/mipmap-hdpi_ic_launcher_round.webp.flat",
+        "source": "/home/usuario/.gradle/daemon/8.7/com.example.parameters_activities_01.app-main-45:/mipmap-hdpi/ic_launcher_round.webp"
+    },
+    {
+        "merged": "/home/usuario/.gradle/daemon/8.7/com.example.parameters_activities_01.app-debug-43:/mipmap-anydpi_ic_launcher_round.xml.flat",
+        "source": "/home/usuario/.gradle/daemon/8.7/com.example.parameters_activities_01.app-main-45:/mipmap-anydpi/ic_launcher_round.xml"
+    }
+]

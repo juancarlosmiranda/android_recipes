@@ -1,0 +1,82 @@
+[
+    {
+        "merged": "com.example.activty_01.app-debug-34:/mipmap-hdpi_ic_launcher_round.webp.flat",
+        "source": "com.example.activty_01.app-main-36:/mipmap-hdpi/ic_launcher_round.webp"
+    },
+    {
+        "merged": "com.example.activty_01.app-debug-34:/layout_activity_login.xml.flat",
+        "source": "com.example.activty_01.app-main-36:/layout/activity_login.xml"
+    },
+    {
+        "merged": "com.example.activty_01.app-debug-34:/layout_activity_main.xml.flat",
+        "source": "com.example.activty_01.app-main-36:/layout/activity_main.xml"
+    },
+    {
+        "merged": "com.example.activty_01.app-debug-34:/drawable_ic_launcher_foreground.xml.flat",
+        "source": "com.example.activty_01.app-main-36:/drawable/ic_launcher_foreground.xml"
+    },
+    {
+        "merged": "com.example.activty_01.app-debug-34:/xml_data_extraction_rules.xml.flat",
+        "source": "com.example.activty_01.app-main-36:/xml/data_extraction_rules.xml"
+    },
+    {
+        "merged": "com.example.activty_01.app-debug-34:/mipmap-xhdpi_ic_launcher.webp.flat",
+        "source": "com.example.activty_01.app-main-36:/mipmap-xhdpi/ic_launcher.webp"
+    },
+    {
+        "merged": "com.example.activty_01.app-debug-34:/layout-w936dp_activity_login.xml.flat",
+        "source": "com.example.activty_01.app-main-36:/layout-w936dp/activity_login.xml"
+    },
+    {
+        "merged": "com.example.activty_01.app-debug-34:/mipmap-hdpi_ic_launcher.webp.flat",
+        "source": "com.example.activty_01.app-main-36:/mipmap-hdpi/ic_launcher.webp"
+    },
+    {
+        "merged": "com.example.activty_01.app-debug-34:/xml_backup_rules.xml.flat",
+        "source": "com.example.activty_01.app-main-36:/xml/backup_rules.xml"
+    },
+    {
+        "merged": "com.example.activty_01.app-debug-34:/mipmap-anydpi_ic_launcher_round.xml.flat",
+        "source": "com.example.activty_01.app-main-36:/mipmap-anydpi/ic_launcher_round.xml"
+    },
+    {
+        "merged": "com.example.activty_01.app-debug-34:/layout-w1240dp_activity_login.xml.flat",
+        "source": "com.example.activty_01.app-main-36:/layout-w1240dp/activity_login.xml"
+    },
+    {
+        "merged": "com.example.activty_01.app-debug-34:/mipmap-xxhdpi_ic_launcher_round.webp.flat",
+        "source": "com.example.activty_01.app-main-36:/mipmap-xxhdpi/ic_launcher_round.webp"
+    },
+    {
+        "merged": "com.example.activty_01.app-debug-34:/mipmap-xxhdpi_ic_launcher.webp.flat",
+        "source": "com.example.activty_01.app-main-36:/mipmap-xxhdpi/ic_launcher.webp"
+    },
+    {
+        "merged": "com.example.activty_01.app-debug-34:/mipmap-xhdpi_ic_launcher_round.webp.flat",
+        "source": "com.example.activty_01.app-main-36:/mipmap-xhdpi/ic_launcher_round.webp"
+    },
+    {
+        "merged": "com.example.activty_01.app-debug-34:/mipmap-anydpi_ic_launcher.xml.flat",
+        "source": "com.example.activty_01.app-main-36:/mipmap-anydpi/ic_launcher.xml"
+    },
+    {
+        "merged": "com.example.activty_01.app-debug-34:/mipmap-mdpi_ic_launcher.webp.flat",
+        "source": "com.example.activty_01.app-main-36:/mipmap-mdpi/ic_launcher.webp"
+    },
+    {
+        "merged": "com.example.activty_01.app-debug-34:/drawable_ic_launcher_background.xml.flat",
+        "source": "com.example.activty_01.app-main-36:/drawable/ic_launcher_background.xml"
+    },
+    {
+        "merged": "com.example.activty_01.app-debug-34:/mipmap-xxxhdpi_ic_launcher.webp.flat",
+        "source": "com.example.activty_01.app-main-36:/mipmap-xxxhdpi/ic_launcher.webp"
+    },
+    {
+        "merged": "com.example.activty_01.app-debug-34:/mipmap-xxxhdpi_ic_launcher_round.webp.flat",
+        "source": "com.example.activty_01.app-main-36:/mipmap-xxxhdpi/ic_launcher_round.webp"
+    },
+    {
+        "merged": "com.example.activty_01.app-debug-34:/mipmap-mdpi_ic_launcher_round.webp.flat",
+        "source": "com.example.activty_01.app-main-36:/mipmap-mdpi/ic_launcher_round.webp"
+    }
+]

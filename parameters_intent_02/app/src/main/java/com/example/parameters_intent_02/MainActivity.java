@@ -16,6 +16,7 @@ import androidx.core.view.ViewCompat;
 import androidx.core.view.WindowInsetsCompat;
 
 public class MainActivity extends AppCompatActivity {
+    public static final String LOG_CAT="MAIN_ACTIVITY";
 /*
 https://developer.android.com/training/basics/intents/result
 https://medium.com/@patelsneh18/startactvivityforresult-deprecated-alternative-and-using-it-outside-activity-class-bc9331cf896
@@ -27,7 +28,7 @@ https://medium.com/@patelsneh18/startactvivityforresult-deprecated-alternative-a
                 @Override
                 public void onActivityResult(Uri uri) {
                     // Handle the returned Uri
-                    Log.d("MAIN_ACTIVITY", "URL = " + uri.toString());
+                    Log.i(LOG_CAT, "URL = " + uri.toString());
                 }
             });
 
@@ -49,11 +50,9 @@ https://medium.com/@patelsneh18/startactvivityforresult-deprecated-alternative-a
             public void onClick(View view) {
                 // Pass in the mime type you want to let the user select
                 // as the input
-                Log.d("MAIN_ACTIVITY", "ONCLICK()");
+                Log.i(LOG_CAT, "ONCLICK()");
                 mGetContent.launch("image/*");
             }
         });
-
-
     }
 }

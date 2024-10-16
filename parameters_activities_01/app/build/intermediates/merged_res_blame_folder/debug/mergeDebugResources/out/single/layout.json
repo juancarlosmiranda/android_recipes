@@ -1,0 +1,22 @@
+[
+    {
+        "merged": "/home/usuario/.gradle/daemon/8.7/com.example.parameters_activities_01.app-mergeDebugResources-42:/layout/fragment_02.xml",
+        "source": "/home/usuario/.gradle/daemon/8.7/com.example.parameters_activities_01.app-main-45:/layout/fragment_02.xml"
+    },
+    {
+        "merged": "com.example.parameters_activities_01.app-mergeDebugResources-42:/layout/activity_main.xml",
+        "source": "com.example.parameters_activities_01.app-main-45:/layout/activity_main.xml"
+    },
+    {
+        "merged": "/home/usuario/.gradle/daemon/8.7/com.example.parameters_activities_01.app-mergeDebugResources-42:/layout/activity_main.xml",
+        "source": "/home/usuario/.gradle/daemon/8.7/com.example.parameters_activities_01.app-main-45:/layout/activity_main.xml"
+    },
+    {
+        "merged": "/home/usuario/.gradle/daemon/8.7/com.example.parameters_activities_01.app-mergeDebugResources-42:/layout/fragment_01.xml",
+        "source": "/home/usuario/.gradle/daemon/8.7/com.example.parameters_activities_01.app-main-45:/layout/fragment_01.xml"
+    },
+    {
+        "merged": "/home/usuario/.gradle/daemon/8.7/com.example.parameters_activities_01.app-mergeDebugResources-42:/layout/content_main.xml",
+        "source": "/home/usuario/.gradle/daemon/8.7/com.example.parameters_activities_01.app-main-45:/layout/content_main.xml"
+    }
+]

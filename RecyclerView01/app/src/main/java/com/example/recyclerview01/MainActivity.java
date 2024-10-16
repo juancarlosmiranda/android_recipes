@@ -10,7 +10,7 @@ import androidx.core.view.ViewCompat;
 import androidx.core.view.WindowInsetsCompat;
 
 public class MainActivity extends AppCompatActivity {
-    private static final String LOG_TAG="DD-MAIN";
+    private static final String LOG_TAG = "DD-MAIN";
 
     @Override
     protected void onCreate(Bundle savedInstanceState) {
@@ -30,7 +30,7 @@ public class MainActivity extends AppCompatActivity {
         super.onStart();
         Log.d(LOG_TAG, "onStart METHOD");
     }
-/*
+
     @Override
     protected void onResume() {
         Log.d(LOG_TAG, "onResume METHOD");
@@ -55,6 +55,6 @@ public class MainActivity extends AppCompatActivity {
     protected void onDestroy() {
         Log.d(LOG_TAG, "onDestroy METHOD");
     }
-*/
+
 
 }

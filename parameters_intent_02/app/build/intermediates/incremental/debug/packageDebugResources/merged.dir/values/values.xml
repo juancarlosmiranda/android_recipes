@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+    <string name="app_name">parameters_intent_02</string>
+    <style name="Base.Theme.Parameters_intent_02" parent="Theme.Material3.DayNight.NoActionBar">
+        
+        
+    </style>
+    <style name="Theme.Parameters_intent_02" parent="Base.Theme.Parameters_intent_02"/>
+</resources>

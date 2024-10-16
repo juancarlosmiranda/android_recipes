@@ -1,0 +1,10 @@
+#Tue Oct 15 20:36:04 PYST 2024
+base.0=/home/usuario/development/android_recipes/parameters_intent_01/app/build/intermediates/dex/debugAndroidTest/mergeExtDexDebugAndroidTest/classes.dex
+base.1=/home/usuario/development/android_recipes/parameters_intent_01/app/build/intermediates/dex/debugAndroidTest/mergeProjectDexDebugAndroidTest/0/classes.dex
+base.2=/home/usuario/development/android_recipes/parameters_intent_01/app/build/intermediates/dex/debugAndroidTest/mergeProjectDexDebugAndroidTest/6/classes.dex
+path.0=classes.dex
+path.1=0/classes.dex
+path.2=6/classes.dex
+renamed.0=classes.dex
+renamed.1=classes2.dex
+renamed.2=classes3.dex

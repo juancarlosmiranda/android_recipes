@@ -1,0 +1,10 @@
+#Thu Sep 12 16:38:18 PYT 2024
+base.0=/home/usuario/AndroidStudioProjects/basic_views_03/app/build/intermediates/dex/debugAndroidTest/mergeExtDexDebugAndroidTest/classes.dex
+base.1=/home/usuario/AndroidStudioProjects/basic_views_03/app/build/intermediates/dex/debugAndroidTest/mergeProjectDexDebugAndroidTest/0/classes.dex
+base.2=/home/usuario/AndroidStudioProjects/basic_views_03/app/build/intermediates/dex/debugAndroidTest/mergeProjectDexDebugAndroidTest/4/classes.dex
+path.0=classes.dex
+path.1=0/classes.dex
+path.2=4/classes.dex
+renamed.0=classes.dex
+renamed.1=classes2.dex
+renamed.2=classes3.dex

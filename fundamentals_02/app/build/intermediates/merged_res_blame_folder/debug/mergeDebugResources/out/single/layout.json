@@ -1,0 +1,38 @@
+[
+    {
+        "merged": "/home/usuario/.gradle/daemon/8.7/com.example.fundamentals_02.app-mergeDebugResources-44:/layout/nav_header_main.xml",
+        "source": "/home/usuario/.gradle/daemon/8.7/com.example.fundamentals_02.app-main-47:/layout/nav_header_main.xml"
+    },
+    {
+        "merged": "/home/usuario/.gradle/daemon/8.7/com.example.fundamentals_02.app-mergeDebugResources-44:/layout/fragment_home.xml",
+        "source": "/home/usuario/.gradle/daemon/8.7/com.example.fundamentals_02.app-main-47:/layout/fragment_home.xml"
+    },
+    {
+        "merged": "/home/usuario/.gradle/daemon/8.7/com.example.fundamentals_02.app-mergeDebugResources-44:/layout/fragment_gallery.xml",
+        "source": "/home/usuario/.gradle/daemon/8.7/com.example.fundamentals_02.app-main-47:/layout/fragment_gallery.xml"
+    },
+    {
+        "merged": "/home/usuario/.gradle/daemon/8.7/com.example.fundamentals_02.app-mergeDebugResources-44:/layout/content_main.xml",
+        "source": "/home/usuario/.gradle/daemon/8.7/com.example.fundamentals_02.app-main-47:/layout/content_main.xml"
+    },
+    {
+        "merged": "/home/usuario/.gradle/daemon/8.7/com.example.fundamentals_02.app-mergeDebugResources-44:/layout/activity_main.xml",
+        "source": "/home/usuario/.gradle/daemon/8.7/com.example.fundamentals_02.app-main-47:/layout/activity_main.xml"
+    },
+    {
+        "merged": "/home/usuario/.gradle/daemon/8.7/com.example.fundamentals_02.app-mergeDebugResources-44:/layout/fragment_slideshow.xml",
+        "source": "/home/usuario/.gradle/daemon/8.7/com.example.fundamentals_02.app-main-47:/layout/fragment_slideshow.xml"
+    },
+    {
+        "merged": "com.example.fundamentals_02.app-mergeDebugResources-44:/layout/fragment_home.xml",
+        "source": "com.example.fundamentals_02.app-main-47:/layout/fragment_home.xml"
+    },
+    {
+        "merged": "/home/usuario/.gradle/daemon/8.7/com.example.fundamentals_02.app-mergeDebugResources-44:/layout/app_bar_main.xml",
+        "source": "/home/usuario/.gradle/daemon/8.7/com.example.fundamentals_02.app-main-47:/layout/app_bar_main.xml"
+    },
+    {
+        "merged": "/home/usuario/.gradle/daemon/8.7/com.example.fundamentals_02.app-mergeDebugResources-44:/layout/content_scrolling.xml",
+        "source": "/home/usuario/.gradle/daemon/8.7/com.example.fundamentals_02.app-main-47:/layout/content_scrolling.xml"
+    }
+]

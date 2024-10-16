@@ -1,0 +1,10 @@
+[
+    {
+        "merged": "com.example.activty_01.app-mergeDebugResources-33:/layout/activity_main.xml",
+        "source": "com.example.activty_01.app-main-36:/layout/activity_main.xml"
+    },
+    {
+        "merged": "com.example.activty_01.app-mergeDebugResources-33:/layout/activity_login.xml",
+        "source": "com.example.activty_01.app-main-36:/layout/activity_login.xml"
+    }
+]

@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+    <dimen name="app_bar_height">180dp</dimen>
+    <dimen name="fab_margin">16dp</dimen>
+    <dimen name="text_margin">16dp</dimen>
+    <string name="action_settings">Settings</string>
+    <string name="app_name">parameters_intent_03</string>
+    <string name="btn_return">Return Parameters</string>
+    <string name="btn_send">Send Parameters</string>
+    <string name="text_emisor">"FROM EMISOR TO RECEPTOR"</string>
+    <string name="text_receptor">"RECEPTOR"</string>
+    <string name="title_activity_emisor">Emisor Activity</string>
+    <string name="title_activity_receptor">Receptor Activity</string>
+    <style name="Base.Theme.Parameters_intent_03" parent="Theme.Material3.DayNight.NoActionBar">
+        
+        
+    </style>
+    <style name="Theme.Parameters_intent_03" parent="Base.Theme.Parameters_intent_03"/>
+    <style name="Theme.Parameters_intent_03.AppBarOverlay" parent="ThemeOverlay.AppCompat.Dark.ActionBar"/>
+    <style name="Theme.Parameters_intent_03.NoActionBar">
+        <item name="windowActionBar">false</item>
+        <item name="windowNoTitle">true</item>
+    </style>
+    <style name="Theme.Parameters_intent_03.PopupOverlay" parent="ThemeOverlay.AppCompat.Light"/>
+</resources>

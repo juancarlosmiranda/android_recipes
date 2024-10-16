@@ -1,0 +1,14 @@
+[
+    {
+        "merged": "/home/usuario/.gradle/daemon/8.7/com.example.parameters_intent_01.app-mergeDebugResources-30:/layout/activity_02.xml",
+        "source": "/home/usuario/.gradle/daemon/8.7/com.example.parameters_intent_01.app-main-33:/layout/activity_02.xml"
+    },
+    {
+        "merged": "com.example.parameters_intent_01.app-mergeDebugResources-30:/layout/activity_02.xml",
+        "source": "com.example.parameters_intent_01.app-main-33:/layout/activity_02.xml"
+    },
+    {
+        "merged": "/home/usuario/.gradle/daemon/8.7/com.example.parameters_intent_01.app-mergeDebugResources-30:/layout/activity_main.xml",
+        "source": "/home/usuario/.gradle/daemon/8.7/com.example.parameters_intent_01.app-main-33:/layout/activity_main.xml"
+    }
+]

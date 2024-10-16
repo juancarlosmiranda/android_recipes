@@ -1,0 +1,26 @@
+{
+    "logs": [
+        {
+            "outputFile": "com.example.fundamentals_01.app-mergeDebugResources-42:/values-es-rPY/values-es-rPY.xml",
+            "map": [
+                {
+                    "source": "/home/usuario/AndroidStudioProjects/fundamentals_01/app/src/main/res/values-es-rPY/strings.xml",
+                    "from": {
+                        "startLines": "2,4,3,5",
+                        "startColumns": "4,4,4,4",
+                        "startOffsets": "55,154,108,204",
+                        "endColumns": "52,49,45,60",
+                        "endOffsets": "103,199,149,260"
+                    },
+                    "to": {
+                        "startLines": "2,3,4,5",
+                        "startColumns": "4,4,4,4",
+                        "startOffsets": "55,108,158,204",
+                        "endColumns": "52,49,45,60",
+                        "endOffsets": "103,153,199,260"
+                    }
+                }
+            ]
+        }
+    ]
+}

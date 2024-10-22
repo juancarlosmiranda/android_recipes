@@ -3253,6 +3253,7 @@ id bounce
 id bounceBoth
 id bounceEnd
 id bounceStart
+id btn_save_expense
 id buttonPanel
 id button_first_next
 id button_first_previous
@@ -3319,6 +3320,7 @@ id disableIntraAutoTransition
 id disablePostScroll
 id disableScroll
 id disjoint
+id dp_date
 id dragAnticlockwise
 id dragClockwise
 id dragDown
@@ -3342,6 +3344,8 @@ id endToStart
 id enterAlways
 id enterAlwaysCollapsed
 id escape
+id et_amount
+id et_description
 id exitUntilCollapsed
 id expand_activities_button
 id expanded_menu
@@ -3577,6 +3581,8 @@ id snackbar_text
 id snap
 id snapMargins
 id south
+id sp_category
+id sp_payment_method
 id spacer
 id special_effects_controller_view_tag
 id spline

@@ -16,6 +16,7 @@ id action_ThirdFragment_to_FirstFragment
 id action_ThirdFragment_to_SecondFragment
 id action_about
 id action_settings
+id btn_save_expense
 id button_first_next
 id button_first_previous
 id button_second_home
@@ -23,9 +24,14 @@ id button_second_next
 id button_second_previous
 id button_third_next
 id button_third_previous
+id dp_date
+id et_amount
+id et_description
 id fab
 id nav_graph
 id nav_host_fragment_content_main
+id sp_category
+id sp_payment_method
 id textview_first
 id textview_second
 id toolbar

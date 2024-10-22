@@ -3,24 +3,24 @@
 3    package="com.example.basic_views_03.test" >
 4
 5    <uses-sdk
-5-->/home/usuario/AndroidStudioProjects/basic_views_03/app/build/intermediates/tmp/manifest/androidTest/debug/tempFile1ProcessTestManifest16755272253965780.xml:5:5-74
+5-->/home/usuario/development/android_recipes/basic_views_03/app/build/intermediates/tmp/manifest/androidTest/debug/tempFile1ProcessTestManifest11633538757068883443.xml:5:5-74
 6        android:minSdkVersion="26"
-6-->/home/usuario/AndroidStudioProjects/basic_views_03/app/build/intermediates/tmp/manifest/androidTest/debug/tempFile1ProcessTestManifest16755272253965780.xml:5:15-41
+6-->/home/usuario/development/android_recipes/basic_views_03/app/build/intermediates/tmp/manifest/androidTest/debug/tempFile1ProcessTestManifest11633538757068883443.xml:5:15-41
 7        android:targetSdkVersion="34" />
-7-->/home/usuario/AndroidStudioProjects/basic_views_03/app/build/intermediates/tmp/manifest/androidTest/debug/tempFile1ProcessTestManifest16755272253965780.xml:5:42-71
+7-->/home/usuario/development/android_recipes/basic_views_03/app/build/intermediates/tmp/manifest/androidTest/debug/tempFile1ProcessTestManifest11633538757068883443.xml:5:42-71
 8
 9    <instrumentation
-9-->/home/usuario/AndroidStudioProjects/basic_views_03/app/build/intermediates/tmp/manifest/androidTest/debug/tempFile1ProcessTestManifest16755272253965780.xml:11:5-15:76
+9-->/home/usuario/development/android_recipes/basic_views_03/app/build/intermediates/tmp/manifest/androidTest/debug/tempFile1ProcessTestManifest11633538757068883443.xml:11:5-15:76
 10        android:name="androidx.test.runner.AndroidJUnitRunner"
-10-->/home/usuario/AndroidStudioProjects/basic_views_03/app/build/intermediates/tmp/manifest/androidTest/debug/tempFile1ProcessTestManifest16755272253965780.xml:11:22-76
+10-->/home/usuario/development/android_recipes/basic_views_03/app/build/intermediates/tmp/manifest/androidTest/debug/tempFile1ProcessTestManifest11633538757068883443.xml:11:22-76
 11        android:functionalTest="false"
-11-->/home/usuario/AndroidStudioProjects/basic_views_03/app/build/intermediates/tmp/manifest/androidTest/debug/tempFile1ProcessTestManifest16755272253965780.xml:14:22-52
+11-->/home/usuario/development/android_recipes/basic_views_03/app/build/intermediates/tmp/manifest/androidTest/debug/tempFile1ProcessTestManifest11633538757068883443.xml:14:22-52
 12        android:handleProfiling="false"
-12-->/home/usuario/AndroidStudioProjects/basic_views_03/app/build/intermediates/tmp/manifest/androidTest/debug/tempFile1ProcessTestManifest16755272253965780.xml:13:22-53
+12-->/home/usuario/development/android_recipes/basic_views_03/app/build/intermediates/tmp/manifest/androidTest/debug/tempFile1ProcessTestManifest11633538757068883443.xml:13:22-53
 13        android:label="Tests for com.example.basic_views_03"
-13-->/home/usuario/AndroidStudioProjects/basic_views_03/app/build/intermediates/tmp/manifest/androidTest/debug/tempFile1ProcessTestManifest16755272253965780.xml:15:22-74
+13-->/home/usuario/development/android_recipes/basic_views_03/app/build/intermediates/tmp/manifest/androidTest/debug/tempFile1ProcessTestManifest11633538757068883443.xml:15:22-74
 14        android:targetPackage="com.example.basic_views_03" />
-14-->/home/usuario/AndroidStudioProjects/basic_views_03/app/build/intermediates/tmp/manifest/androidTest/debug/tempFile1ProcessTestManifest16755272253965780.xml:12:22-72
+14-->/home/usuario/development/android_recipes/basic_views_03/app/build/intermediates/tmp/manifest/androidTest/debug/tempFile1ProcessTestManifest11633538757068883443.xml:12:22-72
 15
 16    <queries>
 16-->[androidx.test:runner:1.6.1] /home/usuario/.gradle/caches/transforms-4/e99eb1bd7eefa33fa2e2409e0a4dbcaa/transformed/runner-1.6.1/AndroidManifest.xml:24:5-28:15
@@ -40,12 +40,12 @@
 22-->[androidx.test:core:1.6.1] /home/usuario/.gradle/caches/transforms-4/96aead05cff2484bea8efd17653d0350/transformed/core-1.6.1/AndroidManifest.xml:24:22-69
 23
 24    <application
-24-->/home/usuario/AndroidStudioProjects/basic_views_03/app/build/intermediates/tmp/manifest/androidTest/debug/tempFile1ProcessTestManifest16755272253965780.xml:7:5-9:19
+24-->/home/usuario/development/android_recipes/basic_views_03/app/build/intermediates/tmp/manifest/androidTest/debug/tempFile1ProcessTestManifest11633538757068883443.xml:7:5-9:19
 25        android:debuggable="true"
 26        android:extractNativeLibs="false" >
 27        <uses-library android:name="android.test.runner" />
-27-->/home/usuario/AndroidStudioProjects/basic_views_03/app/build/intermediates/tmp/manifest/androidTest/debug/tempFile1ProcessTestManifest16755272253965780.xml:8:9-60
-27-->/home/usuario/AndroidStudioProjects/basic_views_03/app/build/intermediates/tmp/manifest/androidTest/debug/tempFile1ProcessTestManifest16755272253965780.xml:8:23-57
+27-->/home/usuario/development/android_recipes/basic_views_03/app/build/intermediates/tmp/manifest/androidTest/debug/tempFile1ProcessTestManifest11633538757068883443.xml:8:9-60
+27-->/home/usuario/development/android_recipes/basic_views_03/app/build/intermediates/tmp/manifest/androidTest/debug/tempFile1ProcessTestManifest11633538757068883443.xml:8:23-57
 28
 29        <activity
 29-->[androidx.test:core:1.6.1] /home/usuario/.gradle/caches/transforms-4/96aead05cff2484bea8efd17653d0350/transformed/core-1.6.1/AndroidManifest.xml:27:9-34:20

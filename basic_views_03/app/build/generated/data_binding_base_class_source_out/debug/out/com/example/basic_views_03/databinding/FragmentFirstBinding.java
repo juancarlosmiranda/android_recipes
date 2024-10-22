@@ -5,6 +5,8 @@ import android.view.LayoutInflater;
 import android.view.View;
 import android.view.ViewGroup;
 import android.widget.Button;
+import android.widget.DatePicker;
+import android.widget.Spinner;
 import android.widget.TextView;
 import androidx.annotation.NonNull;
 import androidx.annotation.Nullable;
@@ -12,6 +14,7 @@ import androidx.core.widget.NestedScrollView;
 import androidx.viewbinding.ViewBinding;
 import androidx.viewbinding.ViewBindings;
 import com.example.basic_views_03.R;
+import com.google.android.material.textfield.TextInputEditText;
 import java.lang.NullPointerException;
 import java.lang.Override;
 import java.lang.String;
@@ -21,19 +24,46 @@ public final class FragmentFirstBinding implements ViewBinding {
   private final NestedScrollView rootView;
 
   @NonNull
+  public final Button btnSaveExpense;
+
+  @NonNull
   public final Button buttonFirstNext;
 
   @NonNull
   public final Button buttonFirstPrevious;
 
   @NonNull
+  public final DatePicker dpDate;
+
+  @NonNull
+  public final TextInputEditText etAmount;
+
+  @NonNull
+  public final TextInputEditText etDescription;
+
+  @NonNull
+  public final Spinner spCategory;
+
+  @NonNull
+  public final Spinner spPaymentMethod;
+
+  @NonNull
   public final TextView textviewFirst;
 
-  private FragmentFirstBinding(@NonNull NestedScrollView rootView, @NonNull Button buttonFirstNext,
-      @NonNull Button buttonFirstPrevious, @NonNull TextView textviewFirst) {
+  private FragmentFirstBinding(@NonNull NestedScrollView rootView, @NonNull Button btnSaveExpense,
+      @NonNull Button buttonFirstNext, @NonNull Button buttonFirstPrevious,
+      @NonNull DatePicker dpDate, @NonNull TextInputEditText etAmount,
+      @NonNull TextInputEditText etDescription, @NonNull Spinner spCategory,
+      @NonNull Spinner spPaymentMethod, @NonNull TextView textviewFirst) {
     this.rootView = rootView;
+    this.btnSaveExpense = btnSaveExpense;
     this.buttonFirstNext = buttonFirstNext;
     this.buttonFirstPrevious = buttonFirstPrevious;
+    this.dpDate = dpDate;
+    this.etAmount = etAmount;
+    this.etDescription = etDescription;
+    this.spCategory = spCategory;
+    this.spPaymentMethod = spPaymentMethod;
     this.textviewFirst = textviewFirst;
   }
 
@@ -64,6 +94,12 @@ public final class FragmentFirstBinding implements ViewBinding {
     // This is done to optimize the compiled bytecode for size and performance.
     int id;
     missingId: {
+      id = R.id.btn_save_expense;
+      Button btnSaveExpense = ViewBindings.findChildViewById(rootView, id);
+      if (btnSaveExpense == null) {
+        break missingId;
+      }
+
       id = R.id.button_first_next;
       Button buttonFirstNext = ViewBindings.findChildViewById(rootView, id);
       if (buttonFirstNext == null) {
@@ -76,14 +112,45 @@ public final class FragmentFirstBinding implements ViewBinding {
         break missingId;
       }
 
+      id = R.id.dp_date;
+      DatePicker dpDate = ViewBindings.findChildViewById(rootView, id);
+      if (dpDate == null) {
+        break missingId;
+      }
+
+      id = R.id.et_amount;
+      TextInputEditText etAmount = ViewBindings.findChildViewById(rootView, id);
+      if (etAmount == null) {
+        break missingId;
+      }
+
+      id = R.id.et_description;
+      TextInputEditText etDescription = ViewBindings.findChildViewById(rootView, id);
+      if (etDescription == null) {
+        break missingId;
+      }
+
+      id = R.id.sp_category;
+      Spinner spCategory = ViewBindings.findChildViewById(rootView, id);
+      if (spCategory == null) {
+        break missingId;
+      }
+
+      id = R.id.sp_payment_method;
+      Spinner spPaymentMethod = ViewBindings.findChildViewById(rootView, id);
+      if (spPaymentMethod == null) {
+        break missingId;
+      }
+
       id = R.id.textview_first;
       TextView textviewFirst = ViewBindings.findChildViewById(rootView, id);
       if (textviewFirst == null) {
         break missingId;
       }
 
-      return new FragmentFirstBinding((NestedScrollView) rootView, buttonFirstNext,
-          buttonFirstPrevious, textviewFirst);
+      return new FragmentFirstBinding((NestedScrollView) rootView, btnSaveExpense, buttonFirstNext,
+          buttonFirstPrevious, dpDate, etAmount, etDescription, spCategory, spPaymentMethod,
+          textviewFirst);
     }
     String missingId = rootView.getResources().getResourceName(id);
     throw new NullPointerException("Missing required view with ID: ".concat(missingId));

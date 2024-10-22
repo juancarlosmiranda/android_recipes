@@ -1,7 +1,7 @@
-#Thu Sep 12 16:38:18 PYT 2024
-base.0=/home/usuario/AndroidStudioProjects/basic_views_03/app/build/intermediates/dex/debugAndroidTest/mergeExtDexDebugAndroidTest/classes.dex
-base.1=/home/usuario/AndroidStudioProjects/basic_views_03/app/build/intermediates/dex/debugAndroidTest/mergeProjectDexDebugAndroidTest/0/classes.dex
-base.2=/home/usuario/AndroidStudioProjects/basic_views_03/app/build/intermediates/dex/debugAndroidTest/mergeProjectDexDebugAndroidTest/4/classes.dex
+#Tue Oct 22 14:34:15 PYST 2024
+base.0=/home/usuario/development/android_recipes/basic_views_03/app/build/intermediates/dex/debugAndroidTest/mergeExtDexDebugAndroidTest/classes.dex
+base.1=/home/usuario/development/android_recipes/basic_views_03/app/build/intermediates/dex/debugAndroidTest/mergeProjectDexDebugAndroidTest/0/classes.dex
+base.2=/home/usuario/development/android_recipes/basic_views_03/app/build/intermediates/dex/debugAndroidTest/mergeProjectDexDebugAndroidTest/4/classes.dex
 path.0=classes.dex
 path.1=0/classes.dex
 path.2=4/classes.dex

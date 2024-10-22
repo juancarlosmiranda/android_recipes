@@ -6,43 +6,97 @@
     android:layout_height="match_parent"
     tools:context=".FirstFragment">
 
-    <androidx.constraintlayout.widget.ConstraintLayout
+    <LinearLayout
         android:layout_width="match_parent"
         android:layout_height="match_parent"
+        android:orientation="vertical"
         android:padding="16dp">
 
         <Button
             android:id="@+id/button_first_previous"
             android:layout_width="wrap_content"
             android:layout_height="wrap_content"
-            android:text="@string/btn_previous"
-            app:layout_constraintBottom_toTopOf="@id/textview_first"
-            app:layout_constraintEnd_toEndOf="parent"
-            app:layout_constraintHorizontal_bias="0.196"
-            app:layout_constraintStart_toStartOf="parent"
-            app:layout_constraintTop_toTopOf="parent"
-            app:layout_constraintVertical_bias="0.0" />
+            android:text="@string/btn_previous" />
 
         <Button
             android:id="@+id/button_first_next"
             android:layout_width="wrap_content"
             android:layout_height="wrap_content"
-            android:text="@string/btn_next"
-            app:layout_constraintBottom_toTopOf="@id/textview_first"
-            app:layout_constraintEnd_toEndOf="parent"
-            app:layout_constraintHorizontal_bias="0.731"
-            app:layout_constraintStart_toStartOf="parent"
-            app:layout_constraintTop_toTopOf="parent" />
+            android:text="@string/btn_next" />
 
         <TextView
             android:id="@+id/textview_first"
             android:layout_width="wrap_content"
             android:layout_height="wrap_content"
-            android:layout_marginTop="16dp"
-            android:text="@string/fragment_01_text"
-            app:layout_constraintBottom_toBottomOf="parent"
-            app:layout_constraintEnd_toEndOf="parent"
-            app:layout_constraintStart_toStartOf="parent"
-            app:layout_constraintTop_toBottomOf="@id/button_first_next" />
-    </androidx.constraintlayout.widget.ConstraintLayout>
+            android:text="@string/fragment_01_text" />
+
+        <!-- Campo de Monto -->
+        <com.google.android.material.textfield.TextInputLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:hint="Monto del Gasto">
+            <com.google.android.material.textfield.TextInputEditText
+                android:id="@+id/et_amount"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:inputType="numberDecimal" />
+        </com.google.android.material.textfield.TextInputLayout>
+
+        <!-- Spinner para seleccionar la categoría -->
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="Categoría"
+            android:textSize="16sp" />
+        <Spinner
+            android:id="@+id/sp_category"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:minHeight="48dp" />
+
+        <!-- DatePicker para seleccionar la fecha -->
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="Fecha"
+            android:textSize="16sp" />
+        <DatePicker
+            android:id="@+id/dp_date"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content" />
+
+        <!-- Spinner para seleccionar el método de pago -->
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="Método de Pago"
+            android:textSize="16sp" />
+        <Spinner
+            android:id="@+id/sp_payment_method"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:minHeight="48dp" />
+
+        <!-- Campo de Descripción -->
+        <com.google.android.material.textfield.TextInputLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:hint="Descripción (opcional)">
+            <com.google.android.material.textfield.TextInputEditText
+                android:id="@+id/et_description"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:inputType="text" />
+        </com.google.android.material.textfield.TextInputLayout>
+
+        <!-- Botón para guardar -->
+        <Button
+            android:id="@+id/btn_save_expense"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="Guardar Gasto"
+            android:backgroundTint="@color/cardview_dark_background"
+            android:textColor="@color/white" />
+    </LinearLayout>
+
 </androidx.core.widget.NestedScrollView>

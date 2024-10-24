@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">activity_lifecycle_01</string>
+    <string name="button_str_01">Button</string>
+</resources>

@@ -6,7 +6,12 @@ Ejemplos de Android.
 |---------------------------|-----------------------------|
 | ![](https://github.com/juancarlosmiranda/android_recipes/blob/main/images/image_01.png?raw=true) | saaaaaaa                    |
 | ![](https://github.com/juancarlosmiranda/android_recipes/blob/main/images/image_01.png?raw=true) | saaaaaaa                    |
-| ![](https://github.com/juancarlosmiranda/android_recipes/blob/main/images/image_01.png?raw=true) | saaaaaaa                    |
 
-https://github.com/juancarlosmiranda/juancarlosmiranda/blob/main/images/icons_992/ak_acqs_992.png?raw=true
-https://github.com/juancarlosmiranda/android_recipes/blob/main/images/image_01.png?raw=true
+## Widgets
+
+
+## i18n Localization
+|List & Layouts             | Widgets and building blocks |   
+|---------------------------|-----------------------------|
+| ![](https://github.com/juancarlosmiranda/android_recipes/blob/main/internationalization_01/images/internationalization_01.png) | saaaaaaa                    |
+

@@ -1,5 +1,11 @@
 # Android Recipes
 
+## Widgets
+## Plots, Charts
+| Screen                                                                                                                                              | Description                                                                                                                                                                                           |   
+|-----------------------------------------------------------------------------------------------------------------------------------------------------|-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| <img src="https://github.com/juancarlosmiranda/android_recipes/blob/main/widgets_01/images/widgets_01.png" alt="Alt Text" width="100" height="200"> | [widgets_01](https://github.com/juancarlosmiranda/android_recipes/tree/main/widgets_01) a. |
+| <img src="https://github.com/juancarlosmiranda/android_recipes/blob/main/widgets_02/images/widgets_02.png" alt="Alt Text" width="100" height="200"> | [widgets_02](https://github.com/juancarlosmiranda/android_recipes/tree/main/widgets_02) a.                         |
 
 
 ## i18n Localization

@@ -18,12 +18,6 @@
   <component name="ChangeListManager">
     <list default="true" id="6a74b56c-9feb-42cb-ba8c-18e2c083a6f4" name="Changes" comment="">
       <change beforePath="$PROJECT_DIR$/../README.md" beforeDir="false" afterPath="$PROJECT_DIR$/../README.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../parameters_intent_01/.gradle/8.7/executionHistory/executionHistory.lock" beforeDir="false" afterPath="$PROJECT_DIR$/../parameters_intent_01/.gradle/8.7/executionHistory/executionHistory.lock" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../parameters_intent_01/.gradle/8.7/fileHashes/fileHashes.lock" beforeDir="false" afterPath="$PROJECT_DIR$/../parameters_intent_01/.gradle/8.7/fileHashes/fileHashes.lock" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../parameters_intent_01/.gradle/buildOutputCleanup/buildOutputCleanup.lock" beforeDir="false" afterPath="$PROJECT_DIR$/../parameters_intent_01/.gradle/buildOutputCleanup/buildOutputCleanup.lock" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../parameters_intent_01/.gradle/file-system.probe" beforeDir="false" afterPath="$PROJECT_DIR$/../parameters_intent_01/.gradle/file-system.probe" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../parameters_intent_01/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../parameters_intent_01/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -76,7 +70,7 @@
     "cf.first.check.clang-format": "false",
     "cidr.known.project.marker": "true",
     "kotlin-language-version-configured": "true",
-    "last_opened_file_path": "/home/usuario/development/android_recipes/parameters_intent_02"
+    "last_opened_file_path": "/home/usuario/development/android_recipes/parameters_intent_03"
   }
 }]]></component>
   <component name="RunManager">

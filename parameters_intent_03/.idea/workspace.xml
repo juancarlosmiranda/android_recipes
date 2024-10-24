@@ -27,68 +27,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="9067d038-25fd-45d2-ba9a-5fabdf0f0f14" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/../activty_01/.gitignore" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../activty_01/.idea/.gitignore" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../activty_01/.idea/compiler.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../activty_01/.idea/deploymentTargetSelector.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../activty_01/.idea/gradle.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../activty_01/.idea/migrations.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../activty_01/.idea/misc.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../activty_01/.idea/other.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../activty_01/.idea/vcs.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../activty_01/app/.gitignore" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../activty_01/app/build.gradle" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../activty_01/app/proguard-rules.pro" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../activty_01/app/src/androidTest/java/com/example/activty_01/ExampleInstrumentedTest.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../activty_01/app/src/main/AndroidManifest.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../activty_01/app/src/main/java/com/example/activty_01/MainActivity.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../activty_01/app/src/main/java/com/example/activty_01/data/LoginDataSource.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../activty_01/app/src/main/java/com/example/activty_01/data/LoginRepository.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../activty_01/app/src/main/java/com/example/activty_01/data/Result.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../activty_01/app/src/main/java/com/example/activty_01/data/model/LoggedInUser.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../activty_01/app/src/main/java/com/example/activty_01/ui/login/LoggedInUserView.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../activty_01/app/src/main/java/com/example/activty_01/ui/login/LoginActivity.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../activty_01/app/src/main/java/com/example/activty_01/ui/login/LoginFormState.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../activty_01/app/src/main/java/com/example/activty_01/ui/login/LoginResult.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../activty_01/app/src/main/java/com/example/activty_01/ui/login/LoginViewModel.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../activty_01/app/src/main/java/com/example/activty_01/ui/login/LoginViewModelFactory.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../activty_01/app/src/main/res/drawable/ic_launcher_background.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../activty_01/app/src/main/res/drawable/ic_launcher_foreground.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../activty_01/app/src/main/res/layout-w1240dp/activity_login.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../activty_01/app/src/main/res/layout-w936dp/activity_login.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../activty_01/app/src/main/res/layout/activity_login.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../activty_01/app/src/main/res/layout/activity_main.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../activty_01/app/src/main/res/mipmap-anydpi/ic_launcher.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../activty_01/app/src/main/res/mipmap-anydpi/ic_launcher_round.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../activty_01/app/src/main/res/mipmap-hdpi/ic_launcher.webp" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../activty_01/app/src/main/res/mipmap-hdpi/ic_launcher_round.webp" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../activty_01/app/src/main/res/mipmap-mdpi/ic_launcher.webp" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../activty_01/app/src/main/res/mipmap-mdpi/ic_launcher_round.webp" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../activty_01/app/src/main/res/mipmap-xhdpi/ic_launcher.webp" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../activty_01/app/src/main/res/mipmap-xhdpi/ic_launcher_round.webp" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../activty_01/app/src/main/res/mipmap-xxhdpi/ic_launcher.webp" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../activty_01/app/src/main/res/mipmap-xxhdpi/ic_launcher_round.webp" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../activty_01/app/src/main/res/mipmap-xxxhdpi/ic_launcher.webp" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../activty_01/app/src/main/res/mipmap-xxxhdpi/ic_launcher_round.webp" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../activty_01/app/src/main/res/values-land/dimens.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../activty_01/app/src/main/res/values-night/themes.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../activty_01/app/src/main/res/values-w1240dp/dimens.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../activty_01/app/src/main/res/values-w600dp/dimens.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../activty_01/app/src/main/res/values/colors.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../activty_01/app/src/main/res/values/dimens.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../activty_01/app/src/main/res/values/strings.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../activty_01/app/src/main/res/values/themes.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../activty_01/app/src/main/res/xml/backup_rules.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../activty_01/app/src/main/res/xml/data_extraction_rules.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../activty_01/app/src/test/java/com/example/activty_01/ExampleUnitTest.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../activty_01/build.gradle" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../activty_01/gradle.properties" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../activty_01/gradle/libs.versions.toml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../activty_01/gradle/wrapper/gradle-wrapper.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../activty_01/gradle/wrapper/gradle-wrapper.properties" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../activty_01/gradlew" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../activty_01/gradlew.bat" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../activty_01/settings.gradle" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../README.md" beforeDir="false" afterPath="$PROJECT_DIR$/../README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../parameters_intent_02/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../parameters_intent_02/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -157,22 +97,22 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "Android App.app.executor": "Run",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "RunOnceActivity.cidr.known.project.marker": "true",
-    "RunOnceActivity.readMode.enableVisualFormatting": "true",
-    "cf.first.check.clang-format": "false",
-    "cidr.known.project.marker": "true",
-    "kotlin-language-version-configured": "true",
-    "last_opened_file_path": "/home/usuario/development/android_recipes/parameters_intent_03",
-    "project.structure.last.edited": "Suggestions",
-    "project.structure.proportion": "0.17",
-    "project.structure.side.proportion": "0.2",
-    "settings.editor.selected.configurable": "preferences.externalDependencies"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;Android App.app.executor&quot;: &quot;Run&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.cidr.known.project.marker&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.readMode.enableVisualFormatting&quot;: &quot;true&quot;,
+    &quot;cf.first.check.clang-format&quot;: &quot;false&quot;,
+    &quot;cidr.known.project.marker&quot;: &quot;true&quot;,
+    &quot;kotlin-language-version-configured&quot;: &quot;true&quot;,
+    &quot;last_opened_file_path&quot;: &quot;/home/usuario/development/android_recipes/parameters_intent_03&quot;,
+    &quot;project.structure.last.edited&quot;: &quot;Suggestions&quot;,
+    &quot;project.structure.proportion&quot;: &quot;0.17&quot;,
+    &quot;project.structure.side.proportion&quot;: &quot;0.2&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;preferences.externalDependencies&quot;
   }
-}]]></component>
+}</component>
   <component name="PsdUISettings">
     <option name="MODULE_TAB" value="Signing Configs" />
     <option name="LAST_EDITED_SIGNING_CONFIG" value="debug" />

@@ -104,6 +104,7 @@ public class MainActivity extends AppCompatActivity {
     }
 
     private void initPieChart() {
+
         //using percentage as values instead of amount
         pieChart.setUsePercentValues(true);
 

@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">Internationalization_01</string>
+    <string name="text_view_str">Esto está eEn Español (ES)</string>
+    <string-array name="items_array">
+        <item>Seleccione idioma</item>
+        <item>Español (SP)</item>
+        <item>Inglés (EN)</item>
+    </string-array>
+    <string name="spinner_str">Habilitar Opción</string>
+    <string name="text_view_02_str">Seleccionar Idioma:</string>
+    <string name="user_msg_str">Un mensaje para el usuario aquí...</string>
+    <string name="submit_button_str">Cambiar</string>
+</resources>

@@ -1,11 +1,11 @@
 # Android Recipes
 
 ## Activity lifecycle and state
-
-
 | Screen                                                                                                                                                                   | Description                                                                                                    |   
 |--------------------------------------------------------------------------------------------------------------------------------------------------------------------------|----------------------------------------------------------------------------------------------------------------|
 | <img src="https://github.com/juancarlosmiranda/android_recipes/blob/main/activity_lifecycle_01/images/activity_lifecycle_01.png" alt="Alt Text" width="100" height="200">  | [activity_lifecycle_01](https://github.com/juancarlosmiranda/android_recipes/tree/main/activity_lifecycle_01) Example to show the life cycle of an activity that implements the onCreate(), onResume(), onStart(), onStop(), onRestart(), and onDestroy() methods.  |
+
+## Navigation, Menu
 
 
 ## Intent, Bundle, Passing parameters between activities
@@ -24,10 +24,10 @@
 
 
 ## i18n Localization
-| Screen                                                                                                                                                                                                                                                                   | Description                                                                                                                                                                                          |   
-|--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
-| <img src="https://github.com/juancarlosmiranda/android_recipes/blob/main/internationalization_01/images/internationalization_01.png" alt="Alt Text" width="100" height="200"> | [internationalization_01](https://github.com/juancarlosmiranda/android_recipes/tree/main/internationalization_01) Example for language configuration. (English, Spanish). Non-persistent parameters. |
-
+| Screen                                                                                                                                                                         | Description                                                                                                                                                                                                        |   
+|--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| <img src="https://github.com/juancarlosmiranda/android_recipes/blob/main/internationalization_01/images/internationalization_01.png" alt="Alt Text" width="100" height="200">  | [internationalization_01](https://github.com/juancarlosmiranda/android_recipes/tree/main/internationalization_01) Example for language configuration. (English, Spanish). Non-persistent parameters.               |
+| <img src="https://github.com/juancarlosmiranda/android_recipes/blob/main/internationalization_02/images/internationalization_01.png" alt="Alt Text" width="100" height="200"> | [internationalization_02](https://github.com/juancarlosmiranda/android_recipes/tree/main/internationalization_02) Example for language configuration. (English, Spanish). With persistent shared data parameters. |
 
 ## Plots, Charts
 | Screen                                                                                                                                                                                          | Description                                                                                                                                                                              |   
@@ -36,6 +36,8 @@
 | <img src="https://github.com/juancarlosmiranda/android_recipes/blob/main/android_chart_02/images/android_chart_02.png" alt="Alt Text" width="100" height="200"> | [android_chart_02](https://github.com/juancarlosmiranda/android_recipes/tree/main/android_chart_02) Pie Chart using [MPAndroidChart](https://github.com/PhilJay/MPAndroidChart/) library. |
 
 
-## Persistence, Storage, SAving User Data
+## Persistence, Storage, Saving User Data
 
 ## Background Tasks
+
+## Sensors embedded

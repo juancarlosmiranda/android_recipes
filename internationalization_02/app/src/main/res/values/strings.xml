@@ -1,0 +1,12 @@
+<resources xmlns:tools="http://schemas.android.com/tools">
+    <string name="app_name">Internationalization_01</string>
+    <string name="text_view_str">This is set to English (EN)</string>
+    <string-array name="items_array">
+        <item>Spanish (SP)</item>
+        <item>English (EN)</item>
+    </string-array>
+    <string name="spinner_str">Enable Option</string>
+    <string name="text_view_02_str">Select a Language:</string>
+    <string name="user_msg_str">A message for a user here...</string>
+    <string name="submit_button_str">Change</string>
+</resources>

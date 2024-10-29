@@ -1,3 +1,18 @@
 <resources>
-    <string name="app_name">notification_02</string>
+    <string name="app_name">notification_01</string>
+    <string name="text_str_01">Notifications</string>
+    <string name="button_str_01">NOTIFY!</string>
+    <string name="text_activity_str_01">Actividad de notificacion</string>
+
+    <!-- Toast -->
+    <string name="toast_granted">Post notification permission granted</string>
+    <string name="toast_not_granted">Post notification permission not granted</string>
+
+    <!-- Notify -->
+    <string name="notification_content">It is a SUPER notification!! \n Please click on this notification</string>
+    <string name="notification_description">Please click on this notification</string>
+
+    <!-- ACTIVITY FROM NOTIFICATION -->
+    <string name="noti_activity_text">HELLLLOOO FROM \n NOTIFICATION!!!! \n you clicked on the notification</string>
+
 </resources>

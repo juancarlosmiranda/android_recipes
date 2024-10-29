@@ -42,11 +42,20 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="f62da730-9d94-4829-b64d-7c1e474d6c38" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/../basic_views_02/.idea/vcs.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../RecyclerView01/.idea/gradle.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../RecyclerView01/.idea/gradle.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../RecyclerView01/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../RecyclerView01/.idea/misc.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../RecyclerView01/app/src/main/java/com/example/recyclerview01/MainActivity.java" beforeDir="false" afterPath="$PROJECT_DIR$/../RecyclerView01/app/src/main/java/com/example/recyclerview01/MainActivity.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../parameters_intent_01/app/src/main/java/com/example/parameters_intent_01/Activity02.java" beforeDir="false" afterPath="$PROJECT_DIR$/../parameters_intent_01/app/src/main/java/com/example/parameters_intent_01/Activity02.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../basic_views_01/.gradle/8.7/executionHistory/executionHistory.bin" beforeDir="false" afterPath="$PROJECT_DIR$/../basic_views_01/.gradle/8.7/executionHistory/executionHistory.bin" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../basic_views_01/.gradle/8.7/executionHistory/executionHistory.lock" beforeDir="false" afterPath="$PROJECT_DIR$/../basic_views_01/.gradle/8.7/executionHistory/executionHistory.lock" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../basic_views_01/.gradle/8.7/fileHashes/fileHashes.bin" beforeDir="false" afterPath="$PROJECT_DIR$/../basic_views_01/.gradle/8.7/fileHashes/fileHashes.bin" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../basic_views_01/.gradle/8.7/fileHashes/fileHashes.lock" beforeDir="false" afterPath="$PROJECT_DIR$/../basic_views_01/.gradle/8.7/fileHashes/fileHashes.lock" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../basic_views_01/.gradle/buildOutputCleanup/buildOutputCleanup.lock" beforeDir="false" afterPath="$PROJECT_DIR$/../basic_views_01/.gradle/buildOutputCleanup/buildOutputCleanup.lock" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../basic_views_01/.gradle/file-system.probe" beforeDir="false" afterPath="$PROJECT_DIR$/../basic_views_01/.gradle/file-system.probe" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../basic_views_01/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../basic_views_01/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../basic_views_01/app/build/intermediates/apk/debug/app-debug.apk" beforeDir="false" afterPath="$PROJECT_DIR$/../basic_views_01/app/build/intermediates/apk/debug/app-debug.apk" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../basic_views_01/app/build/intermediates/dex/debug/mergeExtDexDebug/classes.dex" beforeDir="false" afterPath="$PROJECT_DIR$/../basic_views_01/app/build/intermediates/dex/debug/mergeExtDexDebug/classes.dex" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../basic_views_01/app/build/intermediates/incremental/packageDebug/tmp/debug/dex-renamer-state.txt" beforeDir="false" afterPath="$PROJECT_DIR$/../basic_views_01/app/build/intermediates/incremental/packageDebug/tmp/debug/dex-renamer-state.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/file-system.probe" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/file-system.probe" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../internationalization_01/app/src/main/res/values-es/strings.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../internationalization_01/app/src/main/res/values-es/strings.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../internationalization_01/app/src/main/res/values/strings.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../internationalization_01/app/src/main/res/values/strings.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../internationalization_02/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../internationalization_02/.idea/misc.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -70,30 +79,7 @@
         </task>
         <projects_view>
           <tree_state>
-            <expand>
-              <path>
-                <item name="" type="6a2764b6:ExternalProjectsStructure$RootNode" />
-                <item name="fundamentals_01" type="f1a62948:ProjectNode" />
-              </path>
-              <path>
-                <item name="" type="6a2764b6:ExternalProjectsStructure$RootNode" />
-                <item name="fundamentals_01" type="f1a62948:ProjectNode" />
-                <item name="app" type="2d1252cf:ModuleNode" />
-              </path>
-              <path>
-                <item name="" type="6a2764b6:ExternalProjectsStructure$RootNode" />
-                <item name="fundamentals_01" type="f1a62948:ProjectNode" />
-                <item name="app" type="2d1252cf:ModuleNode" />
-                <item name="Tasks" type="e4a08cd1:TasksNode" />
-              </path>
-              <path>
-                <item name="" type="6a2764b6:ExternalProjectsStructure$RootNode" />
-                <item name="fundamentals_01" type="f1a62948:ProjectNode" />
-                <item name="app" type="2d1252cf:ModuleNode" />
-                <item name="Tasks" type="e4a08cd1:TasksNode" />
-                <item name="other" type="c8890929:TasksNode$1" />
-              </path>
-            </expand>
+            <expand />
             <select />
           </tree_state>
         </projects_view>
@@ -129,7 +115,7 @@
     "cf.first.check.clang-format": "false",
     "cidr.known.project.marker": "true",
     "kotlin-language-version-configured": "true",
-    "last_opened_file_path": "/home/usuario/development/android_recipes/activty_01",
+    "last_opened_file_path": "/home/usuario/development/android_recipes/widgets_01",
     "settings.editor.selected.configurable": "emulator"
   }
 }]]></component>

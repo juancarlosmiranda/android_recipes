@@ -5,7 +5,6 @@
         <item>Select Language</item>
         <item>Spanish (SP)</item>
         <item>English (EN)</item>
-        <!-- <item>German (DE)</item> -->
     </string-array>
     <string name="spinner_str">Enable Option</string>
     <string name="text_view_02_str">Select a Language:</string>

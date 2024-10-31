@@ -27,26 +27,11 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="9067d038-25fd-45d2-ba9a-5fabdf0f0f14" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/../README.md" beforeDir="false" afterPath="$PROJECT_DIR$/../README.md" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../notificacion_03/app/src/main/res/mipmap-hdpi/ic_notification.png" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/../notificacion_03/app/src/main/res/mipmap-mdpi/ic_notification.png" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/../notificacion_03/app/src/main/res/mipmap-xhdpi/ic_notification.png" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/../notificacion_03/app/src/main/res/mipmap-xxhdpi/ic_notification.png" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/../notificacion_03/app/src/main/res/mipmap-xxxhdpi/ic_notification.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../parameters_intent_01/.gradle/8.7/executionHistory/executionHistory.lock" beforeDir="false" afterPath="$PROJECT_DIR$/../parameters_intent_01/.gradle/8.7/executionHistory/executionHistory.lock" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../parameters_intent_01/.gradle/8.7/fileHashes/fileHashes.lock" beforeDir="false" afterPath="$PROJECT_DIR$/../parameters_intent_01/.gradle/8.7/fileHashes/fileHashes.lock" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../parameters_intent_01/.gradle/buildOutputCleanup/buildOutputCleanup.lock" beforeDir="false" afterPath="$PROJECT_DIR$/../parameters_intent_01/.gradle/buildOutputCleanup/buildOutputCleanup.lock" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../parameters_intent_01/.gradle/file-system.probe" beforeDir="false" afterPath="$PROJECT_DIR$/../parameters_intent_01/.gradle/file-system.probe" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../parameters_intent_01/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../parameters_intent_01/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../parameters_intent_01/images/parameters_intent_01.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../parameters_intent_02/.gradle/8.7/executionHistory/executionHistory.lock" beforeDir="false" afterPath="$PROJECT_DIR$/../parameters_intent_02/.gradle/8.7/executionHistory/executionHistory.lock" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../parameters_intent_02/.gradle/8.7/fileHashes/fileHashes.lock" beforeDir="false" afterPath="$PROJECT_DIR$/../parameters_intent_02/.gradle/8.7/fileHashes/fileHashes.lock" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../parameters_intent_02/.gradle/buildOutputCleanup/buildOutputCleanup.lock" beforeDir="false" afterPath="$PROJECT_DIR$/../parameters_intent_02/.gradle/buildOutputCleanup/buildOutputCleanup.lock" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../parameters_intent_02/.gradle/file-system.probe" beforeDir="false" afterPath="$PROJECT_DIR$/../parameters_intent_02/.gradle/file-system.probe" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../parameters_intent_02/.idea/other.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../parameters_intent_02/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../parameters_intent_02/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../parameters_intent_02/images/parameters_intent_02.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/parameters_intent_03.png" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -91,22 +76,22 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;Android App.app.executor&quot;: &quot;Run&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.cidr.known.project.marker&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.readMode.enableVisualFormatting&quot;: &quot;true&quot;,
-    &quot;cf.first.check.clang-format&quot;: &quot;false&quot;,
-    &quot;cidr.known.project.marker&quot;: &quot;true&quot;,
-    &quot;kotlin-language-version-configured&quot;: &quot;true&quot;,
-    &quot;last_opened_file_path&quot;: &quot;/home/usuario/development/android_recipes/parameters_intent_03&quot;,
-    &quot;project.structure.last.edited&quot;: &quot;Suggestions&quot;,
-    &quot;project.structure.proportion&quot;: &quot;0.17&quot;,
-    &quot;project.structure.side.proportion&quot;: &quot;0.2&quot;,
-    &quot;settings.editor.selected.configurable&quot;: &quot;preferences.externalDependencies&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "Android App.app.executor": "Run",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "RunOnceActivity.cidr.known.project.marker": "true",
+    "RunOnceActivity.readMode.enableVisualFormatting": "true",
+    "cf.first.check.clang-format": "false",
+    "cidr.known.project.marker": "true",
+    "kotlin-language-version-configured": "true",
+    "last_opened_file_path": "/home/usuario/development/android_recipes/internationalization_01",
+    "project.structure.last.edited": "Suggestions",
+    "project.structure.proportion": "0.17",
+    "project.structure.side.proportion": "0.2",
+    "settings.editor.selected.configurable": "preferences.externalDependencies"
   }
-}</component>
+}]]></component>
   <component name="PsdUISettings">
     <option name="MODULE_TAB" value="Signing Configs" />
     <option name="LAST_EDITED_SIGNING_CONFIG" value="debug" />

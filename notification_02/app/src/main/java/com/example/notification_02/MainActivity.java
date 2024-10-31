@@ -100,7 +100,6 @@ public class MainActivity extends AppCompatActivity {
                 Log.i(LOG_TAG, "Launching notifications");
                 notificationChannel.setDescription(description);
                 notificationManager.createNotificationChannel(notificationChannel);
-
                 notificationManager.notify(10, notificationBuilder.build());
             }
         }

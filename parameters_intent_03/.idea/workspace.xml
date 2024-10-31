@@ -28,6 +28,25 @@
   <component name="ChangeListManager">
     <list default="true" id="9067d038-25fd-45d2-ba9a-5fabdf0f0f14" name="Changes" comment="">
       <change beforePath="$PROJECT_DIR$/../README.md" beforeDir="false" afterPath="$PROJECT_DIR$/../README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../notificacion_03/app/src/main/res/mipmap-hdpi/ic_notification.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../notificacion_03/app/src/main/res/mipmap-mdpi/ic_notification.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../notificacion_03/app/src/main/res/mipmap-xhdpi/ic_notification.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../notificacion_03/app/src/main/res/mipmap-xxhdpi/ic_notification.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../notificacion_03/app/src/main/res/mipmap-xxxhdpi/ic_notification.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../parameters_intent_01/.gradle/8.7/executionHistory/executionHistory.lock" beforeDir="false" afterPath="$PROJECT_DIR$/../parameters_intent_01/.gradle/8.7/executionHistory/executionHistory.lock" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../parameters_intent_01/.gradle/8.7/fileHashes/fileHashes.lock" beforeDir="false" afterPath="$PROJECT_DIR$/../parameters_intent_01/.gradle/8.7/fileHashes/fileHashes.lock" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../parameters_intent_01/.gradle/buildOutputCleanup/buildOutputCleanup.lock" beforeDir="false" afterPath="$PROJECT_DIR$/../parameters_intent_01/.gradle/buildOutputCleanup/buildOutputCleanup.lock" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../parameters_intent_01/.gradle/file-system.probe" beforeDir="false" afterPath="$PROJECT_DIR$/../parameters_intent_01/.gradle/file-system.probe" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../parameters_intent_01/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../parameters_intent_01/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../parameters_intent_01/images/parameters_intent_01.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../parameters_intent_02/.gradle/8.7/executionHistory/executionHistory.lock" beforeDir="false" afterPath="$PROJECT_DIR$/../parameters_intent_02/.gradle/8.7/executionHistory/executionHistory.lock" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../parameters_intent_02/.gradle/8.7/fileHashes/fileHashes.lock" beforeDir="false" afterPath="$PROJECT_DIR$/../parameters_intent_02/.gradle/8.7/fileHashes/fileHashes.lock" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../parameters_intent_02/.gradle/buildOutputCleanup/buildOutputCleanup.lock" beforeDir="false" afterPath="$PROJECT_DIR$/../parameters_intent_02/.gradle/buildOutputCleanup/buildOutputCleanup.lock" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../parameters_intent_02/.gradle/file-system.probe" beforeDir="false" afterPath="$PROJECT_DIR$/../parameters_intent_02/.gradle/file-system.probe" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../parameters_intent_02/.idea/other.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../parameters_intent_02/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../parameters_intent_02/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../parameters_intent_02/images/parameters_intent_02.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/parameters_intent_03.png" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -51,30 +70,7 @@
         </task>
         <projects_view>
           <tree_state>
-            <expand>
-              <path>
-                <item name="" type="6a2764b6:ExternalProjectsStructure$RootNode" />
-                <item name="parameters_intent_03" type="f1a62948:ProjectNode" />
-              </path>
-              <path>
-                <item name="" type="6a2764b6:ExternalProjectsStructure$RootNode" />
-                <item name="parameters_intent_03" type="f1a62948:ProjectNode" />
-                <item name="app" type="2d1252cf:ModuleNode" />
-              </path>
-              <path>
-                <item name="" type="6a2764b6:ExternalProjectsStructure$RootNode" />
-                <item name="parameters_intent_03" type="f1a62948:ProjectNode" />
-                <item name="app" type="2d1252cf:ModuleNode" />
-                <item name="Tasks" type="e4a08cd1:TasksNode" />
-              </path>
-              <path>
-                <item name="" type="6a2764b6:ExternalProjectsStructure$RootNode" />
-                <item name="parameters_intent_03" type="f1a62948:ProjectNode" />
-                <item name="app" type="2d1252cf:ModuleNode" />
-                <item name="Tasks" type="e4a08cd1:TasksNode" />
-                <item name="other" type="c8890929:TasksNode$1" />
-              </path>
-            </expand>
+            <expand />
             <select />
           </tree_state>
         </projects_view>

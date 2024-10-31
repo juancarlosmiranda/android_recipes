@@ -22,11 +22,11 @@
 
 
 ## Intent, Bundle, Passing parameters between activities
-| Screen                                                                                                                                                                   | Description                                                                                                    |   
-|--------------------------------------------------------------------------------------------------------------------------------------------------------------------------|----------------------------------------------------------------------------------------------------------------|
-| <img src="https://github.com/juancarlosmiranda/android_recipes/blob/main/parameters_intent_01/images/parameters_intent_01.png" alt="Alt Text" width="100" height="200">  | [parameters_intent_01](https://github.com/juancarlosmiranda/android_recipes/tree/main/parameters_intent_01) a  |
-| <img src="https://github.com/juancarlosmiranda/android_recipes/blob/main/parameters_intent_02/images/parameters_intent_02.png" alt="Alt Text" width="100" height="200">  | [parameters_intent_02](https://github.com/juancarlosmiranda/android_recipes/tree/main/parameters_intent_02) a  |
-| <img src="https://github.com/juancarlosmiranda/android_recipes/blob/main/parameters_intent_03/images/parameters_intent_03.png" alt="Alt Text" width="100" height="200"> | [parameters_intent_03](https://github.com/juancarlosmiranda/android_recipes/tree/main/parameters_intent_03) a |
+| Screen                                                                                                                                                                  | Description                                                                                                    |   
+|-------------------------------------------------------------------------------------------------------------------------------------------------------------------------|----------------------------------------------------------------------------------------------------------------|
+| <img src="https://github.com/juancarlosmiranda/android_recipes/blob/main/parameters_intent_01/images/parameters_intent_01.gif" alt="Alt Text" width="100" height="200"> | [parameters_intent_01](https://github.com/juancarlosmiranda/android_recipes/tree/main/parameters_intent_01) a  |
+| <img src="https://github.com/juancarlosmiranda/android_recipes/blob/main/parameters_intent_02/images/parameters_intent_02.gif" alt="Alt Text" width="100" height="200"> | [parameters_intent_02](https://github.com/juancarlosmiranda/android_recipes/tree/main/parameters_intent_02) a  |
+| <img src="https://github.com/juancarlosmiranda/android_recipes/blob/main/parameters_intent_03/images/parameters_intent_03.gif" alt="Alt Text" width="100" height="200"> | [parameters_intent_03](https://github.com/juancarlosmiranda/android_recipes/tree/main/parameters_intent_03) a |
 
 
 ## Widgets, User interaction

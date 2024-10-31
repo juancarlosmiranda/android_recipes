@@ -1,5 +1,18 @@
 # Android Recipes
 
+## Table of Contents
+
+- [Activity lifecycle and state](#activity-lifecycle-and-state)
+- [Navigation, Menu](#navigation-menu)
+- [Intent, Bundle, Passing parameters between activities](#intent-bundle-passing-parameters-between-activities)
+- [Widgets, User interaction](#widgets-user-interaction)
+- [i18n Localization](#i18n-localization)
+- [Notifications](#notifications)
+- [Plots, Charts](#plots-charts)
+- [Persistence, Storage, Saving User Data](#persistence-storage-saving-user-data)
+- [Background Tasks](#background-tasks)
+- [Sensors Embedded](#sensors-embedded)
+
 ## Activity lifecycle and state
 | Screen                                                                                                                                                                   | Description                                                                                                    |   
 |--------------------------------------------------------------------------------------------------------------------------------------------------------------------------|----------------------------------------------------------------------------------------------------------------|
@@ -49,4 +62,4 @@
 
 ## Background Tasks
 
-## Sensors embedded
+## Sensors Embedded

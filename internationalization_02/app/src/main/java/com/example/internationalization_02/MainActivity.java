@@ -117,6 +117,7 @@ public class MainActivity extends AppCompatActivity {
 
         // Guardar el idioma en SharedPreferences
         Log.i(LOG_TAG, "setLocale(String lang) -> saving preferences = ");
+
         SharedPreferences.Editor editor = getSharedPreferences(PREFS_NAME, MODE_PRIVATE).edit();
         editor.putString(PREF_LANGUAGE, lang);
         editor.apply();

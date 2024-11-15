@@ -3,22 +3,22 @@
 ## Table of Contents
 
 - [Activity lifecycle and state](#activity-lifecycle-and-state)
-- [Navigation, Menu](#navigation-menu)
+- [Navigation, Menu](#navigation-menu) (WORKING)
 - [Intent, Bundle, Passing parameters between activities](#intent-bundle-passing-parameters-between-activities)
 - [Widgets, User interaction](#widgets-user-interaction)
 - [i18n Localization](#i18n-localization)
 - [Notifications](#notifications)
 - [Plots, Charts](#plots-charts)
-- [Persistence, Storage, Saving User Data](#persistence-storage-saving-user-data)
-- [Background Tasks](#background-tasks)
-- [Sensors Embedded](#sensors-embedded)
+- [Persistence, Storage, Saving User Data](#persistence-storage-saving-user-data) (WORKING)
+- [Background Tasks](#background-tasks) (WORKING)
+- [Sensors Embedded](#sensors-embedded) (WORKING)
 
 ## Activity lifecycle and state
 | Screen                                                                                                                                                                   | Description                                                                                                    |   
 |--------------------------------------------------------------------------------------------------------------------------------------------------------------------------|----------------------------------------------------------------------------------------------------------------|
 | <img src="https://github.com/juancarlosmiranda/android_recipes/blob/main/activity_lifecycle_01/images/activity_lifecycle_01.png" alt="Alt Text" width="100" height="200">  | [activity_lifecycle_01](https://github.com/juancarlosmiranda/android_recipes/tree/main/activity_lifecycle_01) Example to show the life cycle of an activity that implements the onCreate(), onResume(), onStart(), onStop(), onRestart(), and onDestroy() methods.  |
 
-## Navigation, Menu
+## Navigation, Menu (WORKING)
 
 
 ## Intent, Bundle, Passing parameters between activities
@@ -58,8 +58,19 @@
 | <img src="https://github.com/juancarlosmiranda/android_recipes/blob/main/android_chart_02/images/android_chart_02.gif" alt="Alt Text" width="100" height="200"> | [android_chart_02](https://github.com/juancarlosmiranda/android_recipes/tree/main/android_chart_02) Pie Chart using [MPAndroidChart](https://github.com/PhilJay/MPAndroidChart/) library. |
 
 
-## Persistence, Storage, Saving User Data
+## Persistence, Storage, Saving User Data (WORKING)
+### Shared Preferences
 
-## Background Tasks
+### Filesystems
 
-## Sensors Embedded
+### Databases and tables (SQLite)
+
+### Databases and tables (Firebase)
+
+### REST API from Android
+AsyncTasks, retroFit, Volley
+
+## Background Tasks (WORKING)
+
+## Sensors Embedded (WORKING)
+Accelerometer, GNSS, Cameras.
